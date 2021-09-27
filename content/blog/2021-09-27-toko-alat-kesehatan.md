@@ -4,10 +4,10 @@ date: 2021-09-27T14:57:06.093Z
 description: Kebutuhan alat kesehatan dan alat medis lahir dari upaya pengobatan
   dan pencegahan yang kemudian berkembang.
 ---
-<!DOCTYPE html>
+`<DOCTYPE HTML>`
 
-<html lang="en">
-<head>
+`<html lang="en">`
+`<head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Toko Alat Kesehatan</title>
@@ -149,4 +149,4 @@ description: Kebutuhan alat kesehatan dan alat medis lahir dari upaya pengobatan
 		</div>		
 	</div>
 </body>
-</html>
+</html>`
