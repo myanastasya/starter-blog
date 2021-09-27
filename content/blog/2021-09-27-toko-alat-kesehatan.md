@@ -6,13 +6,14 @@ description: Kebutuhan alat kesehatan dan alat medis lahir dari upaya pengobatan
 ---
 `<DOCTYPE HTML>`
 
-`<html lang="en">`
+``<html lang="en">
 `<head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Toko Alat Kesehatan</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
-</head>
+	<link rel="stylesheet" type="text/css" href="style.css">``
+
+`</head>
 <body>
 	<script>
 		function myFunction(){
@@ -61,8 +62,8 @@ description: Kebutuhan alat kesehatan dan alat medis lahir dari upaya pengobatan
 			<img src="alkes.jpg">
 			<div class="middle">
 				<div class="koloms">
-					<H3 class="deskripsi">KATALOG</br> dan <br>CARA PEMBELIAN<H3>
-					<table border="1" id="t0">
+					<H3 class="deskripsi">KATALOG</br> dan <br>CARA PEMBELIAN<H3>`
+		``			<table border="1" id="t0">
 						<thead>
 							<tr>
 								<th>Kategori</th>
@@ -149,4 +150,4 @@ description: Kebutuhan alat kesehatan dan alat medis lahir dari upaya pengobatan
 		</div>		
 	</div>
 </body>
-</html>`
+</html>` ``
